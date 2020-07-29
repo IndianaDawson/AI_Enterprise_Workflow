@@ -33,7 +33,7 @@
 -   Yes 
 
 11. Is everything containerized within a working Docker image?
-    Yes -> dockerfile
+-   Yes -> dockerfile
 
 12. Did they use a visualization to compare their model to the baseline model?
 -   No 
