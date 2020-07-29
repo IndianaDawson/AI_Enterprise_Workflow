@@ -3,10 +3,10 @@
 ## Answers for Peer review
 
 1.  Are there unit tests for the API?
-    Yes, in folder unittests -> ApiTests.py
+-   Yes, in folder unittests -> ApiTests.py
 
 2.  Are there unit tests for the model?
-    Yes, in folder unittests -> ModelTests.py
+-   Yes, in folder unittests -> ModelTests.py
 
 3.  Are there unit tests for the logging?
     Yes, in folder unittests -> LoggerTests.py
